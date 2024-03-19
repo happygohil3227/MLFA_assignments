@@ -5,9 +5,9 @@ This is a folder of Assignments of <a href="http://www.ai.iitkgp.ac.in/courses-1
 I completed these assignments myself, implementing all the models from scratch with minimal use of external libraries
 
 <ol>
-Assignment 1: Perceptron Learning Algoritham 
-Assignment 2: Linear Regression  
-Assignment 3: Logistic Regression 
-Assignment 4: Decision Tree
-Assignment 5: CNN
+<li>Assignment 1: Perceptron Learning Algoritham</li> 
+<li>Assignment 2: Linear Regression </li> 
+<li>Assignment 3: Logistic Regression</li>
+<li>Assignment 4: Decision Tree</li>
+<li>Assignment 5: CNN</li>
 </ol>
